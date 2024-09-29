@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My PHP Application!</h1>
-    <h2>This application is deployed by enabling Github webhooks.</h2>
+    <h2>This application is deployed by enabling POLL SCM.</h2>
 </body>
 </html>
 
