@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My PHP Application!</h1>
-    <h2>Now, The applicaition is ready to use. Please pull the docker image and start wroking on it.</h2>
+    <h2>This PHP application is deployed using enabling webhooks on Github.</h2>
 </body>
 </html>
 
